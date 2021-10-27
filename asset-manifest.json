@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactanimation/static/css/main.74cb2657.chunk.css",
+    "main.js": "/reactanimation/static/js/main.339f0254.chunk.js",
+    "main.js.map": "/reactanimation/static/js/main.339f0254.chunk.js.map",
+    "runtime-main.js": "/reactanimation/static/js/runtime-main.2c491e50.js",
+    "runtime-main.js.map": "/reactanimation/static/js/runtime-main.2c491e50.js.map",
+    "static/css/2.c1256375.chunk.css": "/reactanimation/static/css/2.c1256375.chunk.css",
+    "static/js/2.2614d756.chunk.js": "/reactanimation/static/js/2.2614d756.chunk.js",
+    "static/js/2.2614d756.chunk.js.map": "/reactanimation/static/js/2.2614d756.chunk.js.map",
+    "static/js/3.08fc2c03.chunk.js": "/reactanimation/static/js/3.08fc2c03.chunk.js",
+    "static/js/3.08fc2c03.chunk.js.map": "/reactanimation/static/js/3.08fc2c03.chunk.js.map",
+    "index.html": "/reactanimation/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/reactanimation/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.74cb2657.chunk.css.map": "/reactanimation/static/css/main.74cb2657.chunk.css.map",
+    "static/js/2.2614d756.chunk.js.LICENSE.txt": "/reactanimation/static/js/2.2614d756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c491e50.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.2614d756.chunk.js",
+    "static/css/main.74cb2657.chunk.css",
+    "static/js/main.339f0254.chunk.js"
+  ]
+}
